@@ -13,6 +13,7 @@
 
 #define SUFFIXTREETEXTIFYBINARYFILES false
 #define SUFFIXTREEPRINTSTRINGMAXSIZE 1000
+#define SUFFIXTREEINDEXINTEGERFORMATTYPE "%lu"
 
 // gcc mylcsubstring2.c -o mylcsubstring2.bin -O3 -Wall -mssse3
 

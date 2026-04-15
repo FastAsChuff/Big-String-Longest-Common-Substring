@@ -22,7 +22,6 @@
 #define SUFFIXTREEALPHABETIXINTEGERTYPE uint8_t
 #define SUFFIXTREEALPHABETMAXSIZE 255
 #define SUFFIXTREEINDEXINTEGERTYPE uint64_t
-#define SUFFIXTREEINDEXINTEGERFORMATTYPE "%lu"
 #define MAX(a,b) ((a) < (b) ? (b) : (a))
 #define MIN(a,b) ((a) > (b) ? (b) : (a))
 
