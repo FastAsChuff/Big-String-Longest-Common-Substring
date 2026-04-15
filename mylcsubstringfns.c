@@ -1,5 +1,6 @@
 //======================================================================================================================================
 // mylcsubstringfns.c: Build suffix tree and find the 'Longest Common Substring'.
+// Author: Simon Goater April 2026.
 // COPYRIGHT NOTICE: Copying and distributing without modification, but with conspicuous attribution for any legal purpose is permitted.
 //======================================================================================================================================
 #include <stdio.h>
